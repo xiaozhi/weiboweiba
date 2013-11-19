@@ -1,0 +1,24 @@
+HTC One X                                 HTC S720e                                                           HTC
+HTC One S                                 HTC Z520e                                                           HTC
+HTC One V                                 HTC T320e                                                           HTC
+MOTO锋芒智能手机                    XT910                                                                  Motorola
+MOTO锋丽智能手机                    XT615                                                                  Motorola
+MOTO戴妃三防智能手机              XT320                                                                  Motorola
+HTC灵感                                       HTC Z710t                                                           HTC
+HTC灵感XL.urBeats                      HTC Sensation XL with Beats Audio X315e        HTC
+HTC灵感XE.urBeats                      HTC Sensation XE with Beats Audio Z715e        HTC
+HTC微客                                       HTC C510e                                                          HTC
+HTC 倾心                                      HTC S510b                                                          HTC
+HTC 新渴望V                                HTC T328w                                                          HTC
+三星GalaxyNote                           GT-I9220                                                             Samsung
+小米手机                                       MI-ONE Plus                                                       Xiaomi
+小米手机2                                     MI 2                                                              Xiaomi
+华为云手机                                    C8650                                                                 HUAWEI
+中兴智能手机                                ZTE-T U880                                                         ZTE
+TCL智能云手机                              TCL A906                                                            TCL
+百度易平台                                     Dell V04B                                                           Dell
+联想乐Phone_A300                       Lenovo A300                                                       Lenovo
+联想乐Phone_A520                       Lenovo A520                                                       Lenovo
+联想乐Phone_A750                       Lenovo A750                                                       Lenovo
+联想乐Phone_P700                       Lenovo P700                                                        Lenovo
+三星GALAXY Note II N7100               GT-N7108                                                       samsung

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, WeiboweibaActivity!</string>
+    <string name="app_name">新浪微博尾巴修改器</string>
+
+    <string name="sure">确&#160;&#160;&#160;定</string>
+    <string name="select_phone_model">请选择机型</string>
+    <string name="help">帮&#160;&#160;&#160;助</string>
+    
+    <string name="tip_after_modify">修改完成,重启手机后生效</string>
+    
+    <color name="spinner_item_color">#4f6475</color>
+</resources>
